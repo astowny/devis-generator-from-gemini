@@ -1,0 +1,5 @@
+{
+  "name": "SmartQuote GenAI",
+  "description": "Générateur de devis intelligent avec sélection de templates et assistance IA pour la rédaction.",
+  "requestFramePermissions": []
+}
